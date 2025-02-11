@@ -16,6 +16,8 @@ Zheng-Chong and eltociear (https://github.com/Zheng-Chong/CatVTON/).
 
 To use this project, follow these steps:
 
+## Note: I have tested with the python version of 3.9.0 on windows system with nvidio driver for cuda and cudnn with the version of 12.6
+
 1. **Clone the Repository**
 
    ```bash
