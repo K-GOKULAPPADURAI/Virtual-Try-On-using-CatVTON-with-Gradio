@@ -12,3 +12,9 @@ densepose_
 playground.py
 output
 model/cloth_masker_segformer.py
+Lib/
+include/
+Scripts/
+share/
+pyvenv.cfg
+
