@@ -202,7 +202,7 @@ def person_example_fn(image_path):
     return image_path
 
 HEADER = """
-<h1 style="text-align: center;">Dress Changing using Stable Diffusion</h1>
+<h1 style="text-align: center;">Virtual Try-On using Stable Diffusion</h1>
 """
 
 def app_gradio():
